@@ -2,7 +2,8 @@
 
 ### **TERRORIST ACTIVITY FORECASTING AND RISK ASSESSMENT SYSTEM**
 
-## Mini Project 1A SEM-5 Respectively For The Academic Year 2023-24.
+### Mini Project 1A SEM-5 Respectively For The Academic Year 2023-24.
+
 **1. Vedant Ramesh Bhosale   (07 / 211101051)**
 
 **2. Ganesh Omprakash Karli  (32 / 211101023)**
