@@ -2,7 +2,7 @@
 
 ### **TERRORIST ACTIVITY FORECASTING AND RISK ASSESSMENT SYSTEM**
 
-### Mini Project 1A SEM-5 Respectively For The Academic Year 2023-24.
+### CSM501 - Mini Project 2A SEM-5 Respectively For The Academic Year 2023-24.
 
 **1. Vedant Ramesh Bhosale   (07 / 211101051)**
 
