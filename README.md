@@ -1,5 +1,3 @@
-# MINI-PROJECT-TE-AI&DS-SEM-5
-
 # Terrorist Activity Forecasting and Risk Assessment System (TAFRAS)
 
 
