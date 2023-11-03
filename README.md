@@ -118,6 +118,8 @@ TAFRAS is designed to be user-friendly. Our user guide explains how to utilize t
 TAFRAS is distributed under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
 
 
+![image](https://github.com/Yash22222/TERRORIST-ACTIVITY-FORECASTING-AND-RISK-ASSESSMENT-SYSTEM/assets/97459174/24101df2-a9ba-47d2-a959-6641731171ae)
+
 
 ![image](https://github.com/Yash22222/MINI-PROJECT-SEM-5/assets/97459174/2b23200e-8352-4a0f-81c6-b673e5852d35)
 
