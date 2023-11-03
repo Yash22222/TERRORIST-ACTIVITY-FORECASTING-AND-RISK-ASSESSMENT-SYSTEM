@@ -41,3 +41,6 @@ This database reflects the collection and coding rules for the Global Terrorism 
 5] German Federal Foreign Office
 
 6] United Kingdom Foreign, Commonwealth, and Development Office
+
+![image](https://github.com/Yash22222/MINI-PROJECT-SEM-5/assets/97459174/2b23200e-8352-4a0f-81c6-b673e5852d35)
+
