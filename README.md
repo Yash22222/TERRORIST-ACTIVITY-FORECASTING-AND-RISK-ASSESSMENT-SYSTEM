@@ -2,7 +2,6 @@
 
 # Terrorist Activity Forecasting and Risk Assessment System (TAFRAS)
 
-![Project Image](https://your-image-url.png) 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -105,7 +104,7 @@ This section summarizes the key findings and outlines areas for future work and 
 ### Software
 - Python 3.x
 - Data analysis and machine learning libraries (e.g., NumPy, Pandas, Scikit-Learn)
-- Web framework (if applicable)
+- Web framework 
 
 ## Installation
 
@@ -115,9 +114,6 @@ Details on how to install and set up TAFRAS on your local machine can be found i
 
 TAFRAS is designed to be user-friendly. Our user guide explains how to utilize the system effectively.
 
-## Contributing
-
-We welcome contributions from the community. If you have any suggestions, find issues, or want to help improve TAFRAS, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
